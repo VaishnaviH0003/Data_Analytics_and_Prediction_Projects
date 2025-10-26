@@ -116,7 +116,7 @@ Retail_Profitability_Analysis/
 
 ## Key Insights
 -Technology category generates the highest sales and profit.
--West region has the best profit performance.
+-East region has the best profit performance.
 -High discounts negatively impact profit.
 -November and December show sales peaks (seasonality).
 -Corporate and Home Office segments show steady profit margins.
