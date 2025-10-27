@@ -171,6 +171,4 @@ Both projects demonstrate the ability to transform raw data into actionable insi
 
 ## Author
 Vaishnavi H
-📧 [YourEmail@example.com
-]
-💼 LinkedIn Profile
+
