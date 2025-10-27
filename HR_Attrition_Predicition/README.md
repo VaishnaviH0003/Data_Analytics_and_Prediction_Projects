@@ -133,11 +133,11 @@ Build dashboards using the visuals described above or open:
 dashboard/HR_Attrition_Dashboard.twbx
 
 ## Deliverables
-Deliverable	Description
-Data Cleaning & EDA Notebook	Python-based data exploration
-Processed CSVs	Cleaned & summarized data for Tableau
-Tableau Dashboard	Interactive visualization of attrition insights
-Report	PDF report summarizing key findings
+Deliverable                 	   Description
+Data Cleaning & EDA Notebook	   Python-based data exploration
+Processed CSVs	                 Cleaned & summarized data for Tableau
+Tableau Dashboard           	   Interactive visualization of attrition insights
+Report                      	   PDF report summarizing key findings
 
 ## Conclusion
 
