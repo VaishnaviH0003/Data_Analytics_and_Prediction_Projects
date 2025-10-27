@@ -40,7 +40,7 @@ Retail_Profitability_Analysis/
 │ 
 │
 ├── reports/
-│ └── Final_Report.pdf ← summarized insights & visuals 
+│ └── Retail_Profitability_Analysis_Report.pdf ← summarized insights & visuals 
 │
 └── README.md
 
